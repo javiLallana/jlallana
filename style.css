@@ -1,0 +1,17 @@
+.container{
+  width: 100%;
+  height: 100%;
+  background: aliceblue;
+}
+
+.menu ul{
+  display: inline-flex;
+  margin: 50p;
+}
+
+.menu ul li{
+  list-style: none;
+  margin: 0 20px;
+  color: black;
+  cursor: pointer;
+}
